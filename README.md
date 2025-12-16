@@ -1,2 +1,2 @@
-# Detec-o-de-EPIs-em-tempo-real-com-IA
-# 🚀 Projeto: Detecção de EPIs  com AI
+# EPI-Detector
+# 🚀 Projeto: Detecção de Equipamentos de Proteção Individual com Visão Computacional
